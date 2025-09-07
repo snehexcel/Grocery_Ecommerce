@@ -1,7 +1,7 @@
 # Fastcart_Ecommerce_grocerywebapp
-https://groceryecommercefastcart.netlify.app/
-http://127.0.0.1:8000/admin/
-http://127.0.0.1:8000/
+https://groceryecommercefastcart.netlify.app/ <br>
+http://127.0.0.1:8000/admin/ <br>
+http://127.0.0.1:8000/ <br>
 FastCart is a modern, responsive online grocery shopping platform built with Next.js 14 and Tailwind CSS. It provides a seamless shopping experience with features like product browsing by categories, cart management, wishlist functionality, user dashboard, and dark mode support.
 
 ## Features
